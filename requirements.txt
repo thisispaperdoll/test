@@ -1,0 +1,6 @@
+streamlit
+pandas
+os
+openai
+dotenv
+pymysql

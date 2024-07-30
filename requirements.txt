@@ -3,4 +3,4 @@ pandas
 os
 openai
 dotenv
-pymysql
+PyMySQL
